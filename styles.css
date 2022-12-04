@@ -38,9 +38,10 @@ body
 {
 	width: 300px;
 	height: 639px;
-	background-color: black;
+	background-color: #534d4d;
 	opacity: 0.9;
 	padding: 55px;
+	float: left;
 }
 .wd h1
 {
@@ -75,3 +76,30 @@ form , input[type="button"]:hover
 {
 	background-color: ;
 }
+.right
+{
+	width: 700px;
+	height: 340px;
+	background-color: #1a1818;
+	opacity: 0.9;
+	padding: 55px;
+	float: right;
+}
+.right img
+{
+	size: 50%;
+	height: 50%;
+	width: 50%;
+}
+#one
+{
+	float: left;
+}
+#two
+{
+	float: right;
+	height: 211px;
+    width: 325px;
+}
+
+
